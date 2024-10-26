@@ -37,41 +37,6 @@
 |And So On|O|O|O|
 |Problem Solving|O|O|O|
 
-<br><br>
-
-## 4. Key Features
-- **Lobby Management**
-  - 호스트가 공개 로비를 생성, 게스트는 호스트가 생성한 로비에 참가, 랜덤 매칭, 로비 내에서 채팅을 통해 플레이어 간 의사소통
-- **Player Control**
-  - 플레이어가 플레이어 캐릭터를 조작할 수 있는 기능(이동, 공격, 능력 등)
-- **Monster AI**
-  - 몬스터를 FSM(유한 상태 기계) 디자인 패턴과 AStar 알고리즘을 사용하여, 플레이어를 자동으로 감지, 추격, 공격하는 기능
-- **Check Point**
-  - 플레이어가 사망 시 체크포인트로 돌아가는 기능
-- **Multi-Play**
-  - Photon 서버를 사용하여 두 플레이어가 같은 게임 공간에서 플레이할 수 있는 기능
-
-<br><br>
-
-## 5. Player Types
-||Girl|Robot|
-|:--:|:--:|:--:|
-|Preview|![스크린샷 2024-09-27 005501](https://github.com/user-attachments/assets/cde00f23-0254-44ae-9c85-845404c6529a)|![스크린샷 2024-09-27 005513](https://github.com/user-attachments/assets/c4493ef2-2825-4e4b-8917-884c343869fb)|
-|Attack|Mouse L|Mouse L|
-|Move|WASD or Arrow|WASD or Arrow|
-|Jump|Space bar|Space bar|
-|Ability|Jump + Hold Space bar|Jump + Space bar|
-
-<br><br>
-
-## 6. Monster Types
-||Dobermann|Bird|
-|:--:|:--:|:--:|
-|Preview|![스크린샷 2024-09-27 003607](https://github.com/user-attachments/assets/11449cd4-fed6-4c67-b033-55ee4f0de603)|![스크린샷 2024-09-27 003625](https://github.com/user-attachments/assets/58503f83-9769-47b1-a974-729f6b0a305b)|
-|Attack|Melee|Melee|
-|Move|Walk|Fly|
-|Tech|FSM|FSM, AStar|
-
 <br><br><br><br>
 
 ## Reference
