@@ -18,7 +18,7 @@
 <br><br>
 
 ## 2. Project Members
-|Team Leader|Developer|Desginer|
+|Team Leader|Developer|Designer|
 |:--:|:--:|:--:|
 |김나영<sub>Kim Nayoung</sub>|박인희<sub>Park Inhee</sub>|김용휘<sub>Kim Yonghwi</sub>|
 |![다운로드](https://github.com/user-attachments/assets/f8d4e10d-f847-4170-a6fc-af61cf8fbe99)|![pngtree-recycle-garbage-bag-png-image_6491460](https://github.com/user-attachments/assets/ad653ad3-e628-42f2-92b1-85f7daaff750)|![다운로드](https://github.com/user-attachments/assets/f8d4e10d-f847-4170-a6fc-af61cf8fbe99)|
