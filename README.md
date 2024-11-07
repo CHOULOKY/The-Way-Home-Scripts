@@ -35,7 +35,7 @@
 |InGame Development|X|O|X|
 |Map Design|X|X|O|
 |And So On|O|O|O|
-|Problem Solving|O|O|O|
+|Problem Solving|O|O|X|
 
 <br><br><br><br>
 
