@@ -13,6 +13,7 @@
 ## 1. Overview 
 - Project Name: The Way Home
 - Description: Platformer game using Photon Server (Up to Chapter 1)
+- Duration: Less than 5 months
 
 <br><br>
 
