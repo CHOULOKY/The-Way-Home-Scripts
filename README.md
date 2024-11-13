@@ -20,7 +20,7 @@
 |Team Leader|Developer|Designer|
 |:--:|:--:|:--:|
 |김나영<sub>Kim Nayoung</sub>|박인희<sub>Park Inhee</sub>|김용휘<sub>Kim Yonghwi</sub>|
-|![다운로드](https://github.com/user-attachments/assets/f8d4e10d-f847-4170-a6fc-af61cf8fbe99)|![pngtree-recycle-garbage-bag-png-image_6491460](https://github.com/user-attachments/assets/ad653ad3-e628-42f2-92b1-85f7daaff750)|![다운로드](https://github.com/user-attachments/assets/f8d4e10d-f847-4170-a6fc-af61cf8fbe99)|
+|<img align="center" src="https://github.com/user-attachments/assets/baf4cd2f-13e7-4868-bdfe-1e8caff1ee7b" width="350" height="350" />|![pngtree-recycle-garbage-bag-png-image_6491460](https://github.com/user-attachments/assets/ad653ad3-e628-42f2-92b1-85f7daaff750)|![다운로드](https://github.com/user-attachments/assets/f8d4e10d-f847-4170-a6fc-af61cf8fbe99)|
 |[![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/NaYoung1017)|[![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/CHOULOKY)|[![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/HOKAGO-MEMORIES)|
 
 <br><br>
